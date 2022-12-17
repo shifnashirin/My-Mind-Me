@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background:#093623;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.MyMindAndMe{
+    width: 270px;
+    height: 270px;
+    background: rgb(20, 220, 113);
+    border-radius: 54px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.MyMindAndMe-inner{
+    width: 200px;
+    height: 200px;
+    border: 18px solid #fff;
+    border-radius: 54px;
+
+}
+.images{
+    width: 200px;
+    height: 200px; 
+}
